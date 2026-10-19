@@ -1,7 +1,7 @@
+package se.iths.zainabadnan.webshop;
+
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import se.iths.zainabadnan.webshop.ProductStorage;
-import se.iths.zainabadnan.webshop.WebShopManager;
 import se.iths.zainabadnan.webshop.model.Product;
 
 import java.util.List;

@@ -1,4 +1,4 @@
-import se.iths.zainabadnan.webshop.OutInputHandler;
+package se.iths.zainabadnan.webshop;
 
 public class StubOutInputHandler implements OutInputHandler {
 
