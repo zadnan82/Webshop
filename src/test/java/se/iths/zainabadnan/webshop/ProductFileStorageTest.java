@@ -1,8 +1,8 @@
+package se.iths.zainabadnan.webshop;
+
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.io.TempDir;
-import se.iths.zainabadnan.webshop.ProductFileStorage;
-import se.iths.zainabadnan.webshop.ProductStorage;
 import se.iths.zainabadnan.webshop.model.Product;
 
 import java.nio.file.Path;

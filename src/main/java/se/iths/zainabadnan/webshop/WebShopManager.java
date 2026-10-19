@@ -18,17 +18,17 @@ public class WebShopManager {
     }
 
 
-    public void saveProductToStorage(Product product) {
+    void saveProductToStorage(Product product) {
         productStorage.saveProduct(product);
     }
 
 
-    public List<Product> getProductsFromStorage() {
+    List<Product> getProductsFromStorage() {
         return productStorage.getProducts();
     }
 
 
-    public Product getProductFromStorage(String articleNumber) {
+    Product getProductFromStorage(String articleNumber) {
         return productStorage.getProduct(articleNumber);
     }
 

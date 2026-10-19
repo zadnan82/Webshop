@@ -1,8 +1,6 @@
-package model;
+package se.iths.zainabadnan.webshop.model;
 
 import org.junit.jupiter.api.Test;
-import se.iths.zainabadnan.webshop.model.Discount;
-import se.iths.zainabadnan.webshop.model.TenPercentDiscount;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 

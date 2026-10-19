@@ -1,4 +1,5 @@
-import se.iths.zainabadnan.webshop.ProductStorage;
+package se.iths.zainabadnan.webshop;
+
 import se.iths.zainabadnan.webshop.model.Product;
 
 import java.util.ArrayList;
